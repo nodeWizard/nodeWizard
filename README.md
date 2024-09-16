@@ -1,5 +1,7 @@
-# 💫 About Me:
+# <div style="display: flex; align-items: center; justify-content:center;">
+💫 About Me:
 🌐 Greetings, internet traveler! <br>I’m nodeWizard🧙‍♂️<br>A Tunisian Full Stack JavaScript sorcerer conjuring code from the depths of the web. <br>Armed with Node.js, React, Nest, Prisma, and a sprinkle of magic, I build digital realms both sleek and powerful. <br>Whether it’s taming APIs or crafting pixel-perfect front ends, I'm always up for a challenge. <br>When I’m not busy casting spells (a.k.a. writing code), you’ll find me exploring the latest in tech or debugging the mysteries of the web. <br>Ready to join forces and create something legendary? <br>Let's connect! 🧙‍♂️✨<br><br>
+![Wizard GIF](https://i.pinimg.com/originals/3b/9a/1e/3b9a1ec7b868b4b107bce28f783fb566.gif)
 
 
 ## 🌐 Socials:
@@ -25,3 +27,4 @@
 [![](https://visitcount.itsvg.in/api?id=nodeWizard&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
